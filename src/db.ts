@@ -1,8 +1,8 @@
-import { Packr } from 'msgpackr';
-import { Collection } from './collection';
 import { StorageEngine } from './storage/engine';
 import { FileStorage } from './storage/file';
+import { Collection } from './collection';
 import { Document } from './collection';
+import { Packr } from 'msgpackr';
 
 export interface DbOptions {
   storage?: StorageEngine;
