@@ -1,7 +1,7 @@
 import { StorageEngine } from './storage/engine';
 import { generateId } from './utils';
-import { Query } from './query';
 import { Packr } from 'msgpackr';
+import { Query } from './query';
 
 export interface Document {
   _id?: string;
