@@ -1,8 +1,11 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/511a1cee-5ea1-4fbf-89f6-0214b25dd1a2" height="200px" width="500px"> </p>
+<p align="left"> <img src="https://github.com/user-attachments/assets/8922a1cb-a289-46c0-bda4-e571bcb93087"> </p> 
 
-A lightweight NoSQL database designed to seamlessly encode and decode msgpack binaries with speed and efficiency.
+<p>A lightweight NoSQL database;</p>
 
-<img align="left" src="https://em-content.zobj.net/source/joypixels/394/puzzle-piece_1f9e9.png" width="99px">
+<p>designed to seamlessly encode and decode msgpack binaries with speed and efficiency.</p>
+
+<img align="right" src="https://github.com/user-attachments/assets/2cf8ac79-4bc4-470f-8dcb-bccebc1d52f6" width="99px">
+
 
 ---
 
@@ -14,11 +17,25 @@ To install Swosh using npm, simply run the following command in your terminal:
 npm install @ / .
 ```
 
-<a href="./HTUI.md"> How tu use it </a>
-
-
-
 ## License
 
 This project is licensed under the Server Side Public License. For more details, check
 the [LICENSE](https://github.com/caelok/swosh/blob/main/LICENSE) file.
+
+---
+
+## Donate
+
+ <img align="left" src="https://github.com/user-attachments/assets/9cf49ac6-68ac-4a41-8b2f-28e83ae6a4ed" width="110px">
+
+---
+
+```la
+btc: bc1q0mguckaxcfwd9qplptzap6k9ycpvgxd89revvs
+eth: 0xdE43E8E568b8FdA109eCfC6407e7772392dfFdA7
+sol: ApyaasSv4XrZeJSW6bznbmDdJDbyXJeiP1NfHJ9fgYGt
+```
+
+---
+
+[<a href="./HTUI.md">How to use it</a> • <a href="https://github.com/caelok/swosh/blob/main/README.md#Installation">Main page</a> • <a href="bc1q0mguckaxcfwd9qplptzap6k9ycpvgxd89revvs">Donate</a>] 
