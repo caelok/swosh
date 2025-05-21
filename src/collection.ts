@@ -1,7 +1,7 @@
-import { Packr } from 'msgpackr';
 import { StorageEngine } from './storage/engine';
-import { Query } from './query';
 import { generateId } from './utils';
+import { Query } from './query';
+import { Packr } from 'msgpackr';
 
 export interface Document {
   _id?: string;
