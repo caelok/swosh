@@ -1,4 +1,4 @@
-# How tu use it
+# How to use it
 
 [Main page](./README.md)
 
