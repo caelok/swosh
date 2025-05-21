@@ -1,6 +1,6 @@
-import { Packr } from 'msgpackr';
 import { StorageEngine } from './storage/engine';
 import { Document } from './collection';
+import { Packr } from 'msgpackr';
 
 export class Query<T extends Document> {
   private limitValue: number = 0;
