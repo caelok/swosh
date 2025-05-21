@@ -38,4 +38,4 @@ sol: ApyaasSv4XrZeJSW6bznbmDdJDbyXJeiP1NfHJ9fgYGt
 
 ---
 
-[<a href="./HTUI.md">How to use it</a> • <a href="https://github.com/caelok/swosh/blob/main/README.md#Installation">Main page</a> • <a href="bc1q0mguckaxcfwd9qplptzap6k9ycpvgxd89revvs">Donate</a>] 
+[<a href="./HTUI.md">How to use it</a> • <a href="https://github.com/caelok/swosh/blob/main/README.md#Installation">Main page</a> • <a href="https://github.com/user-attachments/assets/9cf49ac6-68ac-4a41-8b2f-28e83ae6a4ed">Donate</a>] 
