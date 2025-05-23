@@ -13,8 +13,10 @@
 
 To install Swosh using npm, simply run the following command in your terminal:
 
-```
-npm install @ / .
+```cmd
+git clone https://github.com/caelok/swosh.git .
+cd swosh
+npm install
 ```
 
 ## License
